@@ -1,3 +1,3 @@
 ## Gym-LandingPage
->Gym landing page
+>Helps new clients to register for the gym
 ***
